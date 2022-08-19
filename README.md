@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaushik-path
+- 👋 Hi, I’m Kaushik Pathak
 - 👀 I’m interested in Information Technologies.
 - 🌱 I’m currently learning IT support From coursera.
 - 💞️ I’m looking to collaborate on IT Industries.
