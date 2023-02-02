@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaushik Pathak
 - 👀 I’m interested in Software Technologies.
-- 🌱 I’m currently learning IT support From coursera.
+- 🌱 I’m currently learning AWS Cloud Practitioner Essentials From coursera.
 - 💞️ I’m looking to collaborate on IT Industries.
 - 📫 How to reach me Kaushikpathak2807@gmail.com
 
