@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaushik Pathak
 - 👀 I’m interested in Data and Technologies.
-- 🌱 I’m currently Woring as Operations Specilist at Springworks
+- 🌱 I’m currently Working as Operations Specilist at Springworks
 - 💞️ I’m looking to collaborate on IT Industries.
 - 📫 How to reach me path.kaushik28@gmail.com
 
